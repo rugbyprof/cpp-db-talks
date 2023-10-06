@@ -1,2 +1,2 @@
-# cpp-mongo-lecture
-Connecting C++ to a mongo instance
+# cpp-db-talks
+Connecting C++ to a database
