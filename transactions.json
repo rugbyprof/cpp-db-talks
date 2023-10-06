@@ -1,0 +1,333 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "timestamp": "2023-01-01 08:00:00",
+            "description": "Coffee at Brewster's",
+            "amount": -4.25,
+            "type": "debit"
+        },
+        {
+            "id": 2,
+            "timestamp": "2023-01-01 12:30:00",
+            "description": "Lunch at City Diner",
+            "amount": -12.50,
+            "type": "debit"
+        },
+        {
+            "id": 3,
+            "timestamp": "2023-01-02 09:00:00",
+            "description": "Train ticket",
+            "amount": -2.75,
+            "type": "debit"
+        },
+        {
+            "id": 4,
+            "timestamp": "2023-01-02 18:30:00",
+            "description": "Dinner at Bella's",
+            "amount": -23.15,
+            "type": "debit"
+        },
+        {
+            "id": 5,
+            "timestamp": "2023-01-03 10:15:00",
+            "description": "Monthly gym membership",
+            "amount": -50.00,
+            "type": "debit"
+        },
+        {
+            "id": 6,
+            "timestamp": "2023-01-04 15:45:00",
+            "description": "Salary deposit",
+            "amount": 1500.00,
+            "type": "credit"
+        },
+        {
+            "id": 7,
+            "timestamp": "2023-01-05 10:45:00",
+            "description": "Bookstore purchase",
+            "amount": -18.75,
+            "type": "debit"
+        },
+        {
+            "id": 8,
+            "timestamp": "2023-01-06 12:30:00",
+            "description": "Lunch with colleague",
+            "amount": -14.30,
+            "type": "debit"
+        },
+        {
+            "id": 9,
+            "timestamp": "2023-01-07 14:20:00",
+            "description": "Online shopping",
+            "amount": -55.25,
+            "type": "debit"
+        },
+        {
+            "id": 50,
+            "timestamp": "2023-02-15 16:00:00",
+            "description": "Monthly utility bill",
+            "amount": -65.50,
+            "type": "debit"
+        },
+        {
+            "id": 10,
+            "timestamp": "2023-01-08 13:30:00",
+            "description": "Gas station refill",
+            "amount": -30.50,
+            "type": "debit"
+        },
+        {
+            "id": 11,
+            "timestamp": "2023-01-09 10:00:00",
+            "description": "Pharmacy prescription",
+            "amount": -25.20,
+            "type": "debit"
+        },
+        {
+            "id": 12,
+            "timestamp": "2023-01-10 15:00:00",
+            "description": "Online course enrollment",
+            "amount": -100.00,
+            "type": "debit"
+        },
+        {
+            "id": 13,
+            "timestamp": "2023-01-11 10:15:00",
+            "description": "Grocery shopping",
+            "amount": -85.35,
+            "type": "debit"
+        },
+        {
+            "id": 14,
+            "timestamp": "2023-01-12 18:30:00",
+            "description": "Concert ticket purchase",
+            "amount": -45.00,
+            "type": "debit"
+        },
+        {
+            "id": 15,
+            "timestamp": "2023-01-13 12:30:00",
+            "description": "Cinema tickets",
+            "amount": -20.00,
+            "type": "debit"
+        },
+        {
+            "id": 16,
+            "timestamp": "2023-01-14 09:00:00",
+            "description": "Hair salon visit",
+            "amount": -65.75,
+            "type": "debit"
+        },
+        {
+            "id": 17,
+            "timestamp": "2023-01-15 14:15:00",
+            "description": "Pet store expenses",
+            "amount": -42.00,
+            "type": "debit"
+        },
+        {
+            "id": 18,
+            "timestamp": "2023-01-16 17:00:00",
+            "description": "Refund for returned shoes",
+            "amount": 80.00,
+            "type": "credit"
+        },
+        {
+            "id": 19,
+            "timestamp": "2023-01-17 13:20:00",
+            "description": "Tech gadget purchase",
+            "amount": -150.20,
+            "type": "debit"
+        },
+        {
+            "id": 20,
+            "timestamp": "2023-01-18 12:15:00",
+            "description": "Coffee with friend",
+            "amount": -7.50,
+            "type": "debit"
+        },
+        {
+            "id": 21,
+            "timestamp": "2023-01-19 15:30:00",
+            "description": "Monthly magazine subscription",
+            "amount": -5.99,
+            "type": "debit"
+        },
+        {
+            "id": 22,
+            "timestamp": "2023-01-20 11:00:00",
+            "description": "Gift purchase",
+            "amount": -40.00,
+            "type": "debit"
+        },
+        {
+            "id": 23,
+            "timestamp": "2023-01-21 16:30:00",
+            "description": "Train ticket to hometown",
+            "amount": -35.25,
+            "type": "debit"
+        },
+        {
+            "id": 24,
+            "timestamp": "2023-01-22 13:30:00",
+            "description": "Bakery visit",
+            "amount": -8.70,
+            "type": "debit"
+        },
+        {
+            "id": 25,
+            "timestamp": "2023-01-23 09:45:00",
+            "description": "Gardening supplies",
+            "amount": -30.00,
+            "type": "debit"
+        },
+        {
+            "id": 26,
+            "timestamp": "2023-01-24 14:00:00",
+            "description": "Mobile top-up",
+            "amount": -20.00,
+            "type": "debit"
+        },
+        {
+            "id": 27,
+            "timestamp": "2023-01-25 11:15:00",
+            "description": "Local charity donation",
+            "amount": -25.00,
+            "type": "debit"
+        },
+        {
+            "id": 28,
+            "timestamp": "2023-01-26 12:45:00",
+            "description": "Office supplies",
+            "amount": -15.50,
+            "type": "debit"
+        },
+        {
+            "id": 29,
+            "timestamp": "2023-01-27 10:00:00",
+            "description": "Car maintenance",
+            "amount": -120.00,
+            "type": "debit"
+        },
+        {
+            "id": 30,
+            "timestamp": "2023-01-28 15:45:00",
+            "description": "Online course material",
+            "amount": -50.00,
+            "type": "debit"
+        },
+        {
+            "id": 31,
+            "timestamp": "2023-01-29 16:15:00",
+            "description": "Sports equipment",
+            "amount": -65.20,
+            "type": "debit"
+        },
+        {
+            "id": 32,
+            "timestamp": "2023-01-30 13:00:00",
+            "description": "New shirt purchase",
+            "amount": -30.00,
+            "type": "debit"
+        },
+        {
+            "id": 33,
+            "timestamp": "2023-01-31 10:45:00",
+            "description": "Public transport card recharge",
+            "amount": -25.00,
+            "type": "debit"
+        },
+        {
+            "id": 34,
+            "timestamp": "2023-02-01 14:30:00",
+            "description": "Snacks for the weekend",
+            "amount": -12.50,
+            "type": "debit"
+        },
+        {
+            "id": 35,
+            "timestamp": "2023-02-02 11:15:00",
+            "description": "Music album purchase",
+            "amount": -10.99,
+            "type": "debit"
+        },
+        {
+            "id": 36,
+            "timestamp": "2023-02-03 09:30:00",
+            "description": "Monthly rent",
+            "amount": -800.00,
+            "type": "debit"
+        },
+        {
+            "id": 37,
+            "timestamp": "2023-02-04 17:00:00",
+            "description": "Video game purchase",
+            "amount": -60.00,
+            "type": "debit"
+        },
+        {
+            "id": 38,
+            "timestamp": "2023-02-05 15:45:00",
+            "description": "Cafe visit",
+            "amount": -6.50,
+            "type": "debit"
+        },
+        {
+            "id": 39,
+            "timestamp": "2023-02-06 12:15:00",
+            "description": "Gift for friend's birthday",
+            "amount": -45.00,
+            "type": "debit"
+        },
+        {
+            "id": 40,
+            "timestamp": "2023-02-07 14:30:00",
+            "description": "Grocery shopping",
+            "amount": -75.35,
+            "type": "debit"
+        },
+        {
+            "id": 41,
+            "timestamp": "2023-02-08 16:45:00",
+            "description": "Taxi fare",
+            "amount": -20.00,
+            "type": "debit"
+        },
+        {
+            "id": 42,
+            "timestamp": "2023-02-09 11:30:00",
+            "description": "Museum ticket",
+            "amount": -10.00,
+            "type": "debit"
+        },
+        {
+            "id": 43,
+            "timestamp": "2023-02-10 10:00:00",
+            "description": "New headphones",
+            "amount": -55.00,
+            "type": "debit"
+        },
+        {
+            "id": 44,
+            "timestamp": "2023-02-11 14:00:00",
+            "description": "Dinner at a restaurant",
+            "amount": -50.00,
+            "type": "debit"
+        },
+        {
+            "id": 45,
+            "timestamp": "2023-02-12 16:00:00",
+            "description": "Monthly internet bill",
+            "amount": -40.00,
+            "type": "debit"
+        },
+        {
+            "id": 46,
+            "timestamp": "2023-02-13 15:30:00",
+            "description": "Stationery items",
+            "amount": -12.50,
+            "type": "debit"
+        }
+    ]
+}
